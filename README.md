@@ -1,1 +1,1 @@
-# scanner Just a lismal test of scanner
+# Just a smal test of scanner
